@@ -1,0 +1,2 @@
+# traditional_cuisine_api
+node.jsで各都道府県の郷土料理名とカロリーを表示するAPIの作成
